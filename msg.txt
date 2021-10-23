@@ -1,0 +1,162 @@
+Stories for Avilay Parekh
+@avilayparekh (https://medium.com/@avilayparekh?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+·Become a member (https://medium.com/plans?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+
+Today's highlights
+
+CSV Files for Storage? No Thanks. There's a Better Option
+
+Saving data to CSV's is costing you both money and disk space. It's time to end it.
+
+Dario Radečić (https://medium.com/@radecicdario?source=email-fe5592b29a0-1629450773898-digest.reader-7f60cf5620c9-72c78a414d1d----0-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+ in Towards Data Science (https://medium.com/towards-data-science?source=email-fe5592b29a0-1629450773898-digest.reader-7f60cf5620c9-72c78a414d1d----0-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+·5 min read
+
+How I Made $10,495.33 in a Single Month of Freelance Writing
+
+I only worked 16 hours per week.
+
+Zulie Rane (https://medium.com/@zulie?source=email-fe5592b29a0-1629450773898-digest.reader-f5af2b715248-99d730ea0b9e----1-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+ in The Startup (https://medium.com/swlh?source=email-fe5592b29a0-1629450773898-digest.reader-f5af2b715248-99d730ea0b9e----1-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+·5 min read
+
+4 habits to succeed as a software engineer in FAANG
+
+Learn the routines that set apart great engineers
+
+Fabian Hinsenkamp (https://medium.com/@hinsencamp?source=email-fe5592b29a0-1629450773898-digest.reader-29038077e4c6-a03e979f39dd----2-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+ in CodeX (https://medium.com/codex?source=email-fe5592b29a0-1629450773898-digest.reader-29038077e4c6-a03e979f39dd----2-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+·5 min read
+
+5 Unknown Tricks for Python Classes
+
+Some little-known features that can help you increase your proficiency when working with classes in Python
+
+Matteo (https://medium.com/@thegeneralistprogrammer?source=email-fe5592b29a0-1629450773898-digest.reader-78073def27b8-ba5edd29a108----3-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+ in Python in Plain English (https://medium.com/python-in-plain-english?source=email-fe5592b29a0-1629450773898-digest.reader-78073def27b8-ba5edd29a108----3-73------------------13f526e3_f406_4b14_b622_94264be1a6c8-1-d71aa879_6cc2_473b_9d05_05447ab86a8f)
+·5 min read
+
+In case you missed it
+
+Announcing Lightning 1.4
+
+Lightning 1.4 Release adds TPU pods, IPU Hardware, DeepSpeed Infinity, Fully Sharded Data-Parallel and More.
+
+PyTorch Lightning team (https://medium.com/@pytorch-lightning?source=email-fe5592b29a0-1629450773898-digest.reader-d98240dffbaf-8cd20482aee9----0-71------------------13f526e3_f406_4b14_b622_94264be1a6c8-27-59e5fb53_c733_478c_881e_96802635a45a)
+ in PyTorch Lightning Developer Blog (https://medium.com/pytorch-lightning?source=email-fe5592b29a0-1629450773898-digest.reader-d98240dffbaf-8cd20482aee9----0-71------------------13f526e3_f406_4b14_b622_94264be1a6c8-27-59e5fb53_c733_478c_881e_96802635a45a)
+·6 min read
+
+How to use metric learning: embedding is all you need
+
+Find out what's the difference between regular classification and metric learning, and try it for yourself…
+
+Ivan Panshin (https://medium.com/@ivan-panshin?source=email-fe5592b29a0-1629450773898-digest.reader-7f60cf5620c9-f26e01597375----1-71------------------13f526e3_f406_4b14_b622_94264be1a6c8-27-59e5fb53_c733_478c_881e_96802635a45a)
+ in Towards Data Science (https://medium.com/towards-data-science?source=email-fe5592b29a0-1629450773898-digest.reader-7f60cf5620c9-f26e01597375----1-71------------------13f526e3_f406_4b14_b622_94264be1a6c8-27-59e5fb53_c733_478c_881e_96802635a45a)
+·8 min read
+
+The list of synthetic data companies - 2021
+
+Are you looking for a synthetic data company? Check out this list of synthetic data vendors.
+
+Elise Devaux (https://medium.com/@elise-deux?source=email-fe5592b29a0-1629450773898-digest.reader--5aa246265b42----2-71------------------13f526e3_f406_4b14_b622_94264be1a6c8-27-59e5fb53_c733_478c_881e_96802635a45a)
+·7 min read
+
+Quick reads
+
+PFRL's Pre-trained Model Zoo
+
+In a previous post, I gave a high-level overview of PFRL (Preferred RL), an open source deep reinforcement…
+
+Prabhat Nagarajan (https://medium.com/@prabhatn?source=email-fe5592b29a0-1629450773898-digest.reader--a692e1bd69a2----0-72------------------13f526e3_f406_4b14_b622_94264be1a6c8-28-)
+·2 min read
+
+ML Data Management - A Primer
+
+A machine learning (ML) model's performance is determined by code and data. When trying to improve a ML model…
+
+Astasia Myers (https://medium.com/@astasia?source=email-fe5592b29a0-1629450773898-digest.reader-65f7c43f416f-a635a5eac858----1-72------------------13f526e3_f406_4b14_b622_94264be1a6c8-28-)
+ in Memory Leak (https://medium.com/memory-leak?source=email-fe5592b29a0-1629450773898-digest.reader-65f7c43f416f-a635a5eac858----1-72------------------13f526e3_f406_4b14_b622_94264be1a6c8-28-)
+·4 min read
+
+Spring @Transactional mistakes everyone did
+
+Probably one of the most used Spring annotations is @Transactional. Despite its popularity, it is sometimes…
+
+Aleksandr Kozhenkov (https://medium.com/@wirtzleg?source=email-fe5592b29a0-1629450773898-digest.reader-d3a191ac6ed-31418e5a6d6b----2-72------------------13f526e3_f406_4b14_b622_94264be1a6c8-28-)
+ in Javarevisited (https://medium.com/javarevisited?source=email-fe5592b29a0-1629450773898-digest.reader-d3a191ac6ed-31418e5a6d6b----2-72------------------13f526e3_f406_4b14_b622_94264be1a6c8-28-)
+·4 min read
+
+Based on your reading history
+
+Dual Boot is Dead: The Post Mortem
+
+Turn any machine into a developer workstation with one command.
+
+Dimitris Poulopoulos (https://medium.com/@dpoulopoulos?source=email-fe5592b29a0-1629450773898-digest.reader-7f60cf5620c9-cee4db42d059----0-58------------------13f526e3_f406_4b14_b622_94264be1a6c8-16-d1dfb5ee_1651_4096_b0b9_584ed0f2c04d)
+ in Towards Data Science (https://medium.com/towards-data-science?source=email-fe5592b29a0-1629450773898-digest.reader-7f60cf5620c9-cee4db42d059----0-58------------------13f526e3_f406_4b14_b622_94264be1a6c8-16-d1dfb5ee_1651_4096_b0b9_584ed0f2c04d)
+·5 min read
+
+Setting Up a Data Lake on AWS Cloud Using LakeFormation
+
+Setting up a Data Lake involves multiple steps such as collecting, cleansing, moving, and cataloging data…
+
+Engineering@ZenOfAI (https://medium.com/@engg_77322?source=email-fe5592b29a0-1629450773898-digest.reader-d56fb663692e-57ba992f3f51----1-59------------------13f526e3_f406_4b14_b622_94264be1a6c8-16-d1dfb5ee_1651_4096_b0b9_584ed0f2c04d)
+ in ZenOf.AI (https://medium.com/zenofai?source=email-fe5592b29a0-1629450773898-digest.reader-d56fb663692e-57ba992f3f51----1-59------------------13f526e3_f406_4b14_b622_94264be1a6c8-16-d1dfb5ee_1651_4096_b0b9_584ed0f2c04d)
+·7 min read
+
+What I've learned about MLOps from speaking with 100+ ML practitioners
+
+Revealing the truth beneath all the marketing hype around MLOps - key takeaways and hot insights from…
+
+Vesi Staneva (https://medium.com/@veselinastaneva?source=email-fe5592b29a0-1629450773898-digest.reader--3025e33458ad----2-58------------------13f526e3_f406_4b14_b622_94264be1a6c8-16-d1dfb5ee_1651_4096_b0b9_584ed0f2c04d)
+·9 min read
+
+Best in Software Engineering
+
+Trying Out the Rust Bevy Engine
+
+Kick the Tires with a Space Invaders Game
+
+Herbert Wolverson (https://medium.com/@herberticus?source=email-fe5592b29a0-1629450773898-digest.reader-9994e759df14-e97c5c950504----0-50----------55f1c20aba7a--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+ in The Pragmatic Programmers (https://medium.com/pragmatic-programmers?source=email-fe5592b29a0-1629450773898-digest.reader-9994e759df14-e97c5c950504----0-50----------55f1c20aba7a--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+·11 min read
+
+Best in Cybersecurity
+
+Here's How Easy It Is for Cops to Get Your Facebook Data
+
+Police can access everything from "pokes" to private Messenger data - and increasingly do
+
+Ella Fassler (https://medium.com/@ellafassler?source=email-fe5592b29a0-1629450773898-digest.reader-444d13b52878-5b7a2297df17----0-50----------d4e7f4144ac5--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+ in OneZero (https://medium.com/one-zero?source=email-fe5592b29a0-1629450773898-digest.reader-444d13b52878-5b7a2297df17----0-50----------d4e7f4144ac5--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+·6 min read
+
+The High Privacy Cost of a 'Free' Website
+
+Trackers piggybacking on website tools leave some site operators in the dark about who is watching or what…
+
+The Markup (https://medium.com/@themarkup?source=email-fe5592b29a0-1629450773898-digest.reader-444d13b52878-9e2dd46dca5e----1-50----------d4e7f4144ac5--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+ in OneZero (https://medium.com/one-zero?source=email-fe5592b29a0-1629450773898-digest.reader-444d13b52878-9e2dd46dca5e----1-50----------d4e7f4144ac5--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+·16 min read
+
+Scammers Are Out of Control Right Now
+
+As host of 'The Dream' podcast, reporting on scammers is my job. The pandemic is making fraud way too easy.
+
+Jane Marie (https://medium.com/@jane_9680?source=email-fe5592b29a0-1629450773898-digest.reader-8d6b8a439e32-37bbfe3791f4----2-50----------d4e7f4144ac5--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+ in Elemental (https://medium.com/elemental-by-medium?source=email-fe5592b29a0-1629450773898-digest.reader-8d6b8a439e32-37bbfe3791f4----2-50----------d4e7f4144ac5--------13f526e3_f406_4b14_b622_94264be1a6c8-12-)
+·7 min read
+
+See more of what you like and less of what you don't.
+Control your recommendations (https://medium.com/me/missioncontrol?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+
+Read or write from anywhere.
+
+Sent by Medium (https://medium.com/?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+·P.O. Box 602, San Francisco, CA 94104-0602
+Unsubscribe (https://medium.com/me/email-settings/fe5592b29a0/756754e7b58?type=social&source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+ from this type of email·Switch to the Weekly Digest (https://medium.com/me/email-settings/fe5592b29a0/756754e7b58?type=social&preference=2&source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+·Careers (https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+·Help Center (https://help.medium.com/hc/en-us?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
+·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-fe5592b29a0-1629450773898-digest.reader-------------------------13f526e3_f406_4b14_b622_94264be1a6c8)
